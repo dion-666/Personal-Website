@@ -51,12 +51,12 @@
   - Micro‑interactions/animations
 
 ## 6) Tech Stack & Hosting
-- **Framework**: Astro + MDX (approved)
-- **Styling**: Tailwind CSS (approved)
-- **CMS (optional)**: Start with MDX files; option to add Contentlayer/Sanity later (approved)
+- **Framework**: Static HTML templates with vanilla JS (updated)
+- **Styling**: Hand-authored CSS, lightweight utility classes (updated)
+- **CMS (optional)**: Start with simple HTML partials; option to add a headless CMS later if needed
 - **Analytics**: Plausible (privacy‑friendly) (approved)
 - **Forms**: Formspree (or serverless email via Resend) (approved)
-- **Deployment**: Vercel (approved)
+- **Deployment**: Vercel or any static hosting (Netlify, GitHub Pages) (updated)
 - **Performance Targets**: Lighthouse 90+
 
 ## 7) SEO & Social
