@@ -31,6 +31,13 @@
 
 ## 4) Content Plan
 - **About**: Dion — personal background, cycling journey, lifestyle notes, what readers can expect.
+- **About Page Draft Content**:
+  - Gideon, pria, 41 th.
+  - "Pria yang satu ini memulai karir digitalnya sebagai desainer grafis dan juga pengecek kualitas video game sebelum akhirnya nyemplung ke dunia website dan aplikasi.
+    Memiliki standar desain dan pakem kualitas yang diinginkan oleh klien, membawanya menjadi pengurus operasional untuk memastikan sesuai dengan kebutuhan klien.
+    Di akhir karirnya dia bekerja sebagai business development yang fokus untuk berkomunikasi dengan klien dan mencari celah apa yang benar-benar dibutuhkan oleh klien.
+    Membahasakan ke tim development dan deliver ke klien menjadi tantangan sendiri yang asyik untuk dilakukan."
+  - Translate/adapt to English for live site while retaining personable tone.
 - **Projects**: N/A for launch (focus is blog)
 - **Blog**: Life journey, cycling, humour, beverages, routines, reflections. Cadence: TBD (Proposed weekly/biweekly).
 - **Contact**: Friendly CTA to say hi, share a story, or propose a ride; location/timezone: Indonesia (TBD city)
